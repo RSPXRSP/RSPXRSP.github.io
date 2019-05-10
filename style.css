@@ -1,6 +1,3 @@
-thead {
-background-color: #cce6ff
-}
 table {
   border: 1px solid black;
   border-collapse: collapse;
@@ -8,4 +5,8 @@ table {
 
 thead {
 background-color: #cce6ff;
+}
+
+tr:nth-child(odd) {
+background-color: #ddff99;
 }
